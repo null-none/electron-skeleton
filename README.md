@@ -1,4 +1,6 @@
-# Electronjs skeleton
+# Electron starter
+
+A minimal starer to get started with Electron, React and Redux.
 
 ```bash
 # Install dependencies
@@ -6,7 +8,6 @@ npm install
 # Run the app
 npm run start
 ```
-
 
 ```bash
 # debug
